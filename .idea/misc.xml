@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jitin/Downloads/Vision/app/src/main/res/drawable/logo_mlkit.xml" value="0.113" />
+        <entry key="..\:/Users/jitin/Downloads/Vision/app/src/main/res/layout/activity_chooser.xml" value="0.4796875" />
+        <entry key="..\:/Users/jitin/Downloads/Vision/app/src/main/res/layout/activity_settings.xml" value="0.3640625" />
+        <entry key="..\:/Users/jitin/Downloads/Vision/app/src/main/res/layout/activity_vision_entry_choice.xml" value="0.5546875" />
+        <entry key="..\:/Users/jitin/Downloads/Vision/app/src/main/res/layout/activity_vision_live_preview.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/jitin/Downloads/Vision/app/src/main/res/layout/settings_style.xml" value="0.5546875" />
+        <entry key="..\:/Users/jitin/Downloads/vision-quickstart/app/src/main/res/drawable-hdpi/ic_switch_camera_white_48dp.xml" value="0.4105" />
+        <entry key="..\:/Users/jitin/Downloads/vision-quickstart/app/src/main/res/layout/activity_chooser.xml" value="0.4114583333333333" />
+        <entry key="..\:/Users/jitin/Downloads/vision-quickstart/app/src/main/res/layout/activity_settings.xml" value="0.19984802431610943" />
+        <entry key="..\:/Users/jitin/Downloads/vision-quickstart/app/src/main/res/layout/activity_vision_camerax_live_preview.xml" value="0.5546875" />
+        <entry key="..\:/Users/jitin/Downloads/vision-quickstart/app/src/main/res/layout/activity_vision_live_preview.xml" value="0.4114583333333333" />
+        <entry key="..\:/Users/jitin/Downloads/vision-quickstart/app/src/main/res/layout/toggle_style.xml" value="0.4114583333333333" />
+        <entry key="..\:/Users/jitin/Downloads/vision-quickstart/app/src/main/res/xml/preference_still_image.xml" value="0.4114583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
